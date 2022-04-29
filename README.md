@@ -1,4 +1,7 @@
-### Hi there 👋
+### Oi, meu nome é Werikson Alves 👋
+
+ 👋 🌵 Gosto da área de tecnologia e robótica, projetando, desenvolvendo e aplicando em diversas áreas da robótica.
+
 
 <!--
 **WeriksonAlves/WeriksonAlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
