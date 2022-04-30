@@ -15,10 +15,10 @@
 :cactus: Gosto de programação e robótica, fazendo  projetos, desenvolvendo e aplicando em diversas áreas da robótica.
 
 TEMPO TOTAL DE PROGRAMAÇÃO DESDE OUTUBRO DE 2021:
-
+<!--
 [![wakatime](https://wakatime.com/badge/user/bf46ab7b-2735-433b-a4d2-6f5ee4358812/project/5230adab-97f5-4bde-8d5c-2e7ad2f7b060.svg)](https://wakatime.com/badge/user/bf46ab7b-2735-433b-a4d2-6f5ee4358812)
 [![wakatime](https://wakatime.com/badge/user/bf46ab7b-2735-433b-a4d2-6f5ee4358812/project/5230adab-97f5-4bde-8d5c-2e7ad2f7b060.svg)](https://wakatime.com/@meninoiure)
-
+-->
 
 ![Snake animation](https://github.com/IureRosa/IureRosa/blob/output/github-contribution-grid-snake.svg)
 
@@ -47,7 +47,7 @@ TEMPO TOTAL DE PROGRAMAÇÃO DESDE OUTUBRO DE 2021:
   - 
 
 - 📫 Como chegar até mim:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=http:///www.linkedin.com/in/werikson-alves/)](www.linkedin.com/in/werikson-alves)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=https:///www.linkedin.com/in/werikson-alves/](https://www.linkedin.com/in/werikson-alves/)
 <!-- 
 ![GitHub Followers](https://img.shields.io/github/followers/IureRosa?style=social) 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=IureRosa) 🚀
