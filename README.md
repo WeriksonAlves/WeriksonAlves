@@ -48,8 +48,8 @@ TEMPO TOTAL DE PROGRAMAÇÃO DESDE OUTUBRO DE 2021:
 
 - 📫 Como chegar até mim:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=http:///www.linkedin.com/in/werikson-alves/)](https://www.linkedin.com/in/werikson-alves/)
+![GitHub Followers](https://img.shields.io/github/followers/WeriksonAlves?style=social) 
 <!-- 
-![GitHub Followers](https://img.shields.io/github/followers/IureRosa?style=social) 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=IureRosa) 🚀
 -->
 ## My Skills
