@@ -78,7 +78,7 @@ TEMPO TOTAL DE PROGRAMAÇÃO DESDE OUTUBRO DE 2021:
 
 <div align="left">
   <a href="https://github.com/WeriksonAlves">
-   <img align="right" alt="Ace-Gif" height="190" style="border-radius:50px;" src="./ace.gif">
+   <img align="right" alt="Ace-Gif" height="180" style="border-radius:50px;" src="./ace.gif">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=WeriksonAlves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeriksonAlves&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
