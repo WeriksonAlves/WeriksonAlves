@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 TEMPO TOTAL DE PROGRAMAÇÃO DESDE OUTUBRO DE 2021:
 <!--
 [![wakatime](https://wakatime.com/badge/user/bf46ab7b-2735-433b-a4d2-6f5ee4358812/project/5230adab-97f5-4bde-8d5c-2e7ad2f7b060.svg)](https://wakatime.com/@meninoiure)
--->
+
 
 ![Snake animation](https://github.com/WeriksonAlves/WeriksonAlves/blob/output/github-contribution-grid-snake.svg)
-
+-->
 - 🔭 Atualmente estou trabalhando em:
  
   - Pesquisa em Robótica [NERo-UFV](https://github.com/neroUFV);
