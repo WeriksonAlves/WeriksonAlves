@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div height="105">
-<img height="105" src = "https://readme-jokes.vercel.app/api?theme=watermelon" > 
-</div>
 
 ### Hello, welcome, my name is Werikson Frederiko 👋
 
