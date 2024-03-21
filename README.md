@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </div>
 <!-- https://stackoverflow.com/questions/1838873/visualizing-branch-topology-in-git/34467298#34467298 -->
 
-### Oi, meu nome é Werikson Alves 👋
+### Hello, welcome, my name is Werikson Frederiko 👋
 <!-- 
 |   |  
 | ------------------- | 
@@ -27,38 +27,36 @@ Here are some ideas to get you started:
 <!-- <img src = "https://readme-jokes.vercel.app/api?theme=watermelon" height="105"> -->
 
 
-:cactus: Gosto de programação e robótica, fazendo  projetos, desenvolvendo e aplicando em diversas áreas da robótica.
+:cactus: I am a dedicated graduate student in Computer Science at UFV. My academic journey began with an undergraduate degree in Electrical Engineering at the same institution, where I delved into various fields of robotics, refining my expertise in computer vision and machine learning techniques. Taking advantage of techniques such as KNN and Principal Component Analysis, using programming languages such as MatLab and Python. Currently, I am immersed in innovative research at the Robotics Specialization Center - NERo, where my focus is predominantly in the field of image pattern recognition.
 
-TEMPO TOTAL DE PROGRAMAÇÃO DESDE OUTUBRO DE 2021:
+TOTAL PROGRAMMING TIME SINCE JULY 2020:
 <!--
 [![wakatime](https://wakatime.com/badge/user/bf46ab7b-2735-433b-a4d2-6f5ee4358812/project/5230adab-97f5-4bde-8d5c-2e7ad2f7b060.svg)](https://wakatime.com/@meninoiure)
 
 
 ![Snake animation](https://github.com/WeriksonAlves/WeriksonAlves/blob/output/github-contribution-grid-snake.svg)
 -->
-- 🔭 Atualmente estou trabalhando em:
+- 🔭 I am currently working on:
  
-  - Pesquisa em Robótica [NERo-UFV](https://github.com/neroUFV);
-  - Projeto Futebol de Rôbos - [BDP-UFV].
+  - Robotics Research  [NERo-UFV](https://github.com/neroUFV);
+  - Gesture Recognition for Robotics
   
-- 🌱 Atualmente estou aprendendo:
+- 🌱 I'm currently learning:
 
-  - Reconhecimento de Gestos com redes neurais;
-  - Data Science, aplicações específicas na área da Robótica;
+  - Machine Learning techniques;
+  - Data Science (specific applications in Robotics)
   - <img align="center" alt="OpenCV" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg">.
 
-- 👯 Pretendo colaborar em:
+- 👯 I want to collaborate in:
 
-  - Processos de Automação Robótica;
-  - Visão Computacional.
- 
-- ⚡ Fato engraçado:
-
-  - 
+  - Computer Vision processes
+  - Pattern recognition processes
+  - Robotic Automation Processes
+  
 
 - 🤔 Procuro ajuda com:
 
-  - 
+  - Machine Learning techniques;
 
 - 📫 Como chegar até mim:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=http:///www.linkedin.com/in/werikson-alves/)](https://www.linkedin.com/in/werikson-alves/)
@@ -70,7 +68,6 @@ TEMPO TOTAL DE PROGRAMAÇÃO DESDE OUTUBRO DE 2021:
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Leo-MATLAB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
-  <img align="center" alt="JavaScript" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 ## Languages and Tools:
@@ -82,6 +79,4 @@ TEMPO TOTAL DE PROGRAMAÇÃO DESDE OUTUBRO DE 2021:
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeriksonAlves&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
-- Obrigado pela visita. 
- 
-- Aproveite!! 🤖
+- Thank you for your visit. 🤖
