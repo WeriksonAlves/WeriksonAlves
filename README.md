@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 <div height="105">
 <img height="105" src = "https://readme-jokes.vercel.app/api?theme=watermelon" > 
 </div>
-<!-- https://stackoverflow.com/questions/1838873/visualizing-branch-topology-in-git/34467298#34467298 -->
 
 ### Hello, welcome, my name is Werikson Frederiko 👋
 
@@ -62,7 +61,7 @@ TOTAL PROGRAMMING TIME SINCE JULY 2020:
 - Machine Learning
 - Human-Robot Interaction
 - Control and Automation
-- 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Leo-MATLAB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
