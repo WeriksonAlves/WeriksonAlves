@@ -19,13 +19,6 @@ Here are some ideas to get you started:
 <!-- https://stackoverflow.com/questions/1838873/visualizing-branch-topology-in-git/34467298#34467298 -->
 
 ### Hello, welcome, my name is Werikson Frederiko 👋
-<!-- 
-|   |  
-| ------------------- | 
-| <img src = "https://readme-jokes.vercel.app/api?theme=watermelon"  | 
- -->
-<!-- <img src = "https://readme-jokes.vercel.app/api?theme=watermelon" height="105"> -->
-
 
 :cactus: I am a dedicated graduate student in Computer Science at UFV. My academic journey began with an undergraduate degree in Electrical Engineering at the same institution, where I delved into various fields of robotics, refining my expertise in computer vision and machine learning techniques. Taking advantage of techniques such as KNN and Principal Component Analysis, using programming languages such as MatLab and Python. Currently, I am immersed in innovative research at the Robotics Specialization Center - NERo, where my focus is predominantly in the field of image pattern recognition.
 
@@ -54,7 +47,7 @@ TOTAL PROGRAMMING TIME SINCE JULY 2020:
   - Robotic Automation Processes
   
 
-- 🤔 Procuro ajuda com:
+- 🤔 I'm looking for help with:
 
   - Machine Learning techniques;
 
@@ -64,7 +57,12 @@ TOTAL PROGRAMMING TIME SINCE JULY 2020:
 ![Profile View Counter](https://komarev.com/ghpvc/?username=WeriksonAlves) 🚀
 
 ## My Skills
-
+- Pattern recognition
+- Computer Vision
+- Machine Learning
+- Human-Robot Interaction
+- Control and Automation
+- 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Leo-MATLAB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
