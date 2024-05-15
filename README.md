@@ -16,9 +16,13 @@ Here are some ideas to get you started:
 
 ### Hello, welcome, my name is Werikson Frederiko 👋
 
-:cactus: I am a dedicated graduate student in Computer Science at UFV. My academic journey began with an undergraduate degree in Electrical Engineering at the same institution, where I delved into various fields of robotics, refining my expertise in computer vision and machine learning techniques. Taking advantage of techniques such as KNN and Principal Component Analysis, using programming languages such as MatLab and Python. Currently, I am immersed in innovative research at the Robotics Specialization Center - NERo, where my focus is predominantly in the field of image pattern recognition.
+My name is Werikson Frederiko, and I am a dedicated graduate student in Computer Science at UFV. My academic journey began with an undergraduate degree in Electrical Engineering at the same institution, where I delved into various fields of robotics, refining my expertise in computer vision and machine learning techniques. Taking advantage of techniques such as KNN and Principal Component Analysis, using programming languages such as MatLab and Python. 
 
-TOTAL PROGRAMMING TIME SINCE JULY 2020:
+Following a pragmatic approach, I am tirelessly committed to achieving tangible results through dedication and persistence. My philosophy revolves around a complete understanding of tasks, striving for optimum efficiency at every step. Accepting challenges is second nature to me, as I continually seek opportunities for personal and collective growth. 
+
+I am currently immersed in innovative research at the Núcleo de Especialização em Robótica - NERo, where my focus is predominantly in the field of image pattern recognition.
+
+
 <!--
 [![wakatime](https://wakatime.com/badge/user/bf46ab7b-2735-433b-a4d2-6f5ee4358812/project/5230adab-97f5-4bde-8d5c-2e7ad2f7b060.svg)](https://wakatime.com/@meninoiure)
 
@@ -34,7 +38,6 @@ TOTAL PROGRAMMING TIME SINCE JULY 2020:
 
   - Machine Learning techniques;
   - Data Science (specific applications in Robotics)
-  - <img align="center" alt="OpenCV" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg">.
 
 - 👯 I want to collaborate in:
 
@@ -47,10 +50,11 @@ TOTAL PROGRAMMING TIME SINCE JULY 2020:
 
   - Machine Learning techniques;
 
-- 📫 Como chegar até mim:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=http:///www.linkedin.com/in/werikson-alves/)](https://www.linkedin.com/in/werikson-alves/)
-![GitHub Followers](https://img.shields.io/github/followers/WeriksonAlves?style=social) 
-![Profile View Counter](https://komarev.com/ghpvc/?username=WeriksonAlves) 🚀
+- 📫 How to reach me:
+
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=http:///www.linkedin.com/in/werikson-alves)](https://www.linkedin.com/in/werikson-alves)
+  - ![GitHub Followers](https://img.shields.io/github/followers/WeriksonAlves?style=social) 
+  - ![Profile View Counter](https://komarev.com/ghpvc/?username=WeriksonAlves) 🚀
 
 ## My Skills
 - Pattern recognition
@@ -62,6 +66,7 @@ TOTAL PROGRAMMING TIME SINCE JULY 2020:
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Leo-MATLAB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
+  <img align="center" alt="OpenCV" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg">
 </div>
 
 ## Languages and Tools:
