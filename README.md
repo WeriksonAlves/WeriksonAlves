@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Hello, welcome, my name is Werikson Frederiko 👋
+### Hello, welcome 👋
 
 My name is Werikson Frederiko, and I am a dedicated graduate student in Computer Science at UFV. My academic journey began with an undergraduate degree in Electrical Engineering at the same institution, where I delved into various fields of robotics, refining my expertise in computer vision and machine learning techniques. Taking advantage of techniques such as KNN and Principal Component Analysis, using programming languages such as MatLab and Python. 
 
