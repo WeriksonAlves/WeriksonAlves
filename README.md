@@ -1,81 +1,97 @@
-<!--
-**WeriksonAlves/WeriksonAlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Werikson Alves 👋</h1>
+<h3 align="center">PhD Researcher in Computer Vision & AI for Autonomous UAVs</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WeriksonAlves&label=Profile%20views&color=0e75b6&style=flat" alt="WeriksonAlves" />
+  <img src="https://img.shields.io/github/followers/WeriksonAlves?style=social" alt="GitHub Followers" />
+  <a href="https://www.linkedin.com/in/werikson-alves/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+### 👨‍💻 About Me
 
-### Hello, welcome 👋
+I'm a PhD student in Computer Science at the Federal University of Viçosa (UFV), where I develop **real-time AI systems for UAVs** combining computer vision, ROS, and machine learning.
 
-My name is Werikson Frederiko, and I am a dedicated graduate student in Computer Science at UFV. My academic journey began with an undergraduate degree in Electrical Engineering at the same institution, where I delved into various fields of robotics, refining my expertise in computer vision and machine learning techniques. Taking advantage of techniques such as KNN and Principal Component Analysis, using programming languages such as MatLab and Python. 
+Over the last few years, I've worked on **gesture-based control systems**, **Visual-Inertial Odometry (VIO)**, and **robotic navigation** using perception algorithms under constrained environments. My goal is to bridge academic research with scalable, real-world robotic solutions.
 
-Following a pragmatic approach, I am tirelessly committed to achieving tangible results through dedication and persistence. My philosophy revolves around a complete understanding of tasks, striving for optimum efficiency at every step. Accepting challenges is second nature to me, as I continually seek opportunities for personal and collective growth. 
+I believe in clean code, modular systems, and interdisciplinary collaboration.
 
-I am currently immersed in innovative research at the Núcleo de Especialização em Robótica - NERo, where my focus is predominantly in the field of image pattern recognition.
+---
 
+### 🔬 Current Research Topics
 
-<!--
-[![wakatime](https://wakatime.com/badge/user/bf46ab7b-2735-433b-a4d2-6f5ee4358812/project/5230adab-97f5-4bde-8d5c-2e7ad2f7b060.svg)](https://wakatime.com/@meninoiure)
+- 🧠 Real-Time Gesture Recognition for UAVs  
+- 📷 Visual Perception for Autonomous Navigation  
+- 🛰️ Visual-Inertial Odometry using ROS & OpenCV  
+- 📡 Edge AI for Human-Robot Interaction  
+- 🤖 Robotics Education and Competition (LARC/CBR, VSSS)
 
+---
 
-![Snake animation](https://github.com/WeriksonAlves/WeriksonAlves/blob/output/github-contribution-grid-snake.svg)
--->
-- 🔭 I am currently working on:
- 
-  - Robotics Research  [NERo-UFV](https://github.com/neroUFV);
-  - Gesture Recognition for Robotics
-  
-- 🌱 I'm currently learning:
+### 🧰 Skills & Technologies
 
-  - Machine Learning techniques;
-  - Data Science (specific applications in Robotics)
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-ff8800?style=for-the-badge&logo=mathworks&logoColor=white)
 
-- 👯 I want to collaborate in:
+**Frameworks & Tools:**  
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314e?style=for-the-badge&logo=ros&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-  - Computer Vision processes
-  - Pattern recognition processes
-  - Robotic Automation Processes
-  
+**Core Topics:**  
+- Computer Vision (CV)  
+- Pattern Recognition  
+- Robotics & UAV Navigation  
+- Real-Time Systems  
+- Human-Robot Interaction  
 
-- 🤔 I'm looking for help with:
+---
 
-  - Machine Learning techniques;
+### 📁 Featured Projects
 
-- 📫 How to reach me:
+#### 🔹 [Gesture Recognition System (GRS)](https://github.com/WeriksonAlves/grs)
+A lightweight visual gesture recognition system with 94% accuracy at 8 FPS using OpenCV + Scikit-learn, optimized for onboard deployment.
 
-  - [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=http:///www.linkedin.com/in/werikson-alves)](https://www.linkedin.com/in/werikson-alves)
-  - ![GitHub Followers](https://img.shields.io/github/followers/WeriksonAlves?style=social) 
-  - ![Profile View Counter](https://komarev.com/ghpvc/?username=WeriksonAlves) 🚀
+#### 🔹 [VIO Navigation Pipeline](https://github.com/WeriksonAlves/Projects_VIO)
+Modular implementation of Visual-Inertial Odometry using feature extraction, motion estimation, and ROS integration for UAV autonomy.
 
-## My Skills
-- Pattern recognition
-- Computer Vision
-- Machine Learning
-- Human-Robot Interaction
-- Control and Automation
+#### 🔹 [BDP: Soccer](https://github.com/WeriksonAlves/BDP-UFV)
+Part of robotics competition platforms developed at [NERo-UFV](https://github.com/neroUFV), improving agility and strategy using ML and Python.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="Leo-MATLAB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
-  <img align="center" alt="OpenCV" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg">
-</div>
+> 📚 Want to see more? Check out [my repositories »](https://github.com/WeriksonAlves?tab=repositories)
 
-## Languages and Tools:
+---
 
-<div align="left">
-  <a href="https://github.com/WeriksonAlves">
-   <img align="right" alt="Ace-Gif" height="180" style="border-radius:50px;" src="./ace.gif">
+### 🎖️ Achievements & Publications
+
+- 🥈 **President Bernardes Silver Medal** for academic excellence  
+- 📄 *"A Gesture Recognition System for Robot Guidance Applications"*, CBA 2024  
+- 🤖 *AstroBot: A Robotic Platform for Education*, IEEE LARS/SBR/WRE  
+- 🎓 Mentorship and workshops on robotics and perception systems
+
+---
+
+### 📫 Let's connect!
+
+- 📧 Email: werikson.alves@ufv.br or engenheiro.werikson@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/werikson-alves](www.linkedin.com/in/werikson-alves)  
+- 🧪 GitHub: [github.com/WeriksonAlves](https://github.com/WeriksonAlves)  
+- 💬 DM me for collaboration or research exchange!
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=WeriksonAlves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeriksonAlves&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
- 
-- Thank you for your visit. 🤖
+</p>
+
+---
+
+🧠 *“Research transforms theory into tools. Code turns them into impact.”*
