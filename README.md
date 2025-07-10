@@ -32,12 +32,12 @@ I believe in clean code, modular systems, and interdisciplinary collaboration.
 ### 🧰 Skills & Technologies
 
 **Languages:**  
-![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MATLAB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg)
+![MATLAB](https://img.shields.io/badge/MATLAB-ff8800?style=for-the-badge&logo=mathworks&logoColor=white)
 
 **Frameworks & Tools:**  
-![OpenCV](https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314e?style=for-the-badge&logo=ros&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
